@@ -16,7 +16,7 @@ class Controller:
 
         pressed_keys = pygame.key.get_pressed()
 
-        # Use code like the following, but for YOUR Game object.
+        # Use code like the following, but for YOUR  Game object.
         # if pressed_keys[pygame.K_LEFT]:
         #     self.game.fighter.move_left()
         # if pressed_keys[pygame.K_RIGHT]:
